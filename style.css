@@ -1,0 +1,60 @@
+body{
+    background-color: aquamarine;
+}
+.title{
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+    color: blanchedalmond;
+}
+.radio{
+    display: flex;   
+    font-size: 20px;
+    text-align: center;
+}
+.day{
+    flex: 1;
+}
+.time{
+    flex: 1;
+}
+
+.btn {
+    text-align: center;
+    font-size: 35px;
+    color: black;
+    border: black solid 2px;
+  }
+  .btn a{
+      color: black;
+      text-decoration: none;
+  }
+
+.footer{
+    text-align: center;
+    font-size: larger;
+    padding-top: 7%;
+}
+.footer a{
+    color: darkblue;
+    text-decoration: none;
+}
+
+.lec{
+    font-size: 30px;
+    text-align: center;
+}
+
+.join{
+    text-align: center;
+    font-size: 50px;
+    
+}
+.home{
+    text-align: center;
+    font-size: 30px;
+}
+
+.home a{
+    text-decoration: none;
+}
