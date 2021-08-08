@@ -7,6 +7,10 @@ body{
     text-align: center;
     color: blanchedalmond;
 }
+.des{
+    font-size: 40px;
+    text-align: center;
+}
 .radio{
     display: flex;   
     font-size: 20px;
@@ -17,11 +21,6 @@ body{
 }
 .time{
     flex: 1;
-}
-
-.des{
-    font-size: 40px;
-    text-align: center;
 }
 
 .btn {
